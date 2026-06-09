@@ -1,0 +1,10 @@
+a=[1,2,35,6,8,6,5,8,99,0,66]
+print(a)
+a.append(5)
+print(a)
+a.insert(2,8)
+print(a)     
+a.remove(2)
+print(a)
+a.remove(0)
+print(a)
